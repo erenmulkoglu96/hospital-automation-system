@@ -28,7 +28,7 @@ Bütünleşik bir yapıda çalışan hastane otomasyon yazılımları, bir birim
 
 ![Ekran görüntüsü 2024-10-25 143751](https://github.com/user-attachments/assets/4ea0df08-6b03-4cad-9f8b-1b401e50d9c7)
 ![Ekran görüntüsü 2024-10-25 143735](https://github.com/user-attachments/assets/db7007d8-5a54-4432-92d4-3e87d328cbc5)
-![Ekran görüntüsü 2024-10-25 143725](https://github.com/user-attachments/assets/6bb90e08-6d6d-4386-86c1-e9728b34bfcb)
-![Ekran görüntüsü 2024-10-25 143715](https://github.com/user-attachments/assets/1e182670-764a-4bff-87b5-710a8f9eff83)
 ![Ekran görüntüsü 2024-10-25 143637](https://github.com/user-attachments/assets/c4f61de6-5d7d-4dbc-a98d-df89f0839de4)
 ![Ekran görüntüsü 2024-10-25 143602](https://github.com/user-attachments/assets/85cf17aa-68fa-4b09-9121-98bb565c0a24)
+![Ekran görüntüsü 2024-10-25 143715](https://github.com/user-attachments/assets/1e182670-764a-4bff-87b5-710a8f9eff83)
+![Ekran görüntüsü 2024-10-25 143725](https://github.com/user-attachments/assets/6bb90e08-6d6d-4386-86c1-e9728b34bfcb)
